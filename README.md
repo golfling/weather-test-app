@@ -1,8 +1,14 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+This app using  [OpenWeatherMap API](https://openweathermap.org/api).
 
-## Getting Started
+## Demo
+
+![app](https://github.com/golfling/weather-test-app/blob/main/demo/app.gif?raw=true)
+
+![mobile_view](https://github.com/golfling/weather-test-app/blob/main/demo/mobile_view.jpg?raw=true)
+![web_view](https://github.com/golfling/weather-test-app/blob/main/demo/web_view.jpg?raw=true)
+
 
 This project is a starting point for a Flutter application.
 
