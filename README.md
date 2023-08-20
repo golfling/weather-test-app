@@ -4,19 +4,27 @@ This app using  [OpenWeatherMap API](https://openweathermap.org/api).
 
 ## Demo
 
-![app](https://github.com/golfling/weather-test-app/blob/main/demo/app.gif?raw=true)
+### Mobile view
+<img src="https://github.com/golfling/weather-test-app/blob/main/demo/mobile_view.png?raw=true" height="800" />
 
-![mobile_view](https://github.com/golfling/weather-test-app/blob/main/demo/mobile_view.png?raw=true)
-![web_view](https://github.com/golfling/weather-test-app/blob/main/demo/web_view.png?raw=true)
+### Web view
+<img src="https://github.com/golfling/weather-test-app/blob/main/demo/web_view.png?raw=true"  />
+
+### Displaying the operation of the application
+<img src="https://github.com/golfling/weather-test-app/blob/main/demo/app.gif?raw=true" height="800" />
 
 
+## Getting Started
+
+Note: Make sure your Flutter environment is setup.
+
+Installation
+In the command terminal, run the following commands:
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+```
+$ git clone git@github.com:golfling/weather-test-app.git
+$ cd weather-test-app/
+$ flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
