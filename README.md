@@ -6,8 +6,8 @@ This app using  [OpenWeatherMap API](https://openweathermap.org/api).
 
 ![app](https://github.com/golfling/weather-test-app/blob/main/demo/app.gif?raw=true)
 
-![mobile_view](https://github.com/golfling/weather-test-app/blob/main/demo/mobile_view.jpg?raw=true)
-![web_view](https://github.com/golfling/weather-test-app/blob/main/demo/web_view.jpg?raw=true)
+![mobile_view](https://github.com/golfling/weather-test-app/blob/main/demo/mobile_view.png?raw=true)
+![web_view](https://github.com/golfling/weather-test-app/blob/main/demo/web_view.png?raw=true)
 
 
 This project is a starting point for a Flutter application.
